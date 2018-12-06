@@ -1,6 +1,6 @@
 {
   "name": "connect-passwords",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CONNECT package to hash and match passwords.",
   "main": ".",
   "scripts": {
