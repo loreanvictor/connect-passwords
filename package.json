@@ -1,7 +1,7 @@
 {
-  "name": "connect-platform-package-boilerplate",
-  "version": "1.0.0",
-  "description": "the boilerplate project for CONNECT platform packages.",
+  "name": "connect-passwords",
+  "version": "0.0.1",
+  "description": "A CONNECT package to hash and match passwords.",
   "main": ".",
   "scripts": {
     "start": "nodemon app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loreanvictor/connect-platform-package-boilerplate.git"
+    "url": "git+https://github.com/loreanvictor/connect-passwords.git"
   },
   "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loreanvictor/connect-platform-package-boilerplate/issues"
+    "url": "https://github.com/loreanvictor/connect-passwords.git/issues"
   },
-  "homepage": "https://github.com/loreanvictor/connect-platform-package-boilerplate#readme",
+  "homepage": "https://github.com/loreanvictor/connect-passwords.git#readme",
   "peerDependencies": {
     "connect-platform": "*"
   },
