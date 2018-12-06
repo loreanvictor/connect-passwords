@@ -32,18 +32,7 @@ module.exports.platform = {
        * package, without the extension.
        *
        */
-      native : ['hellow']
-    },
-    /**
-     *
-     * aliases help you declare more generic addresses for your nodes.
-     * for example, you might be aliasing '/firestore/insert' to '/db/insert',
-     * so that other nodes and packages of the user will be using them without
-     * being aware that 'db' is actually 'firestore'.
-     *
-     */
-    aliases: {
-      '/test/hellow': '/test-package/hellow',
+      native : ['passwords']
     }
   }
 }
